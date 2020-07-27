@@ -11,7 +11,7 @@
     "url": "git+https://github.com/vinaykhebbar/npmUpdateTest1.git"
   },
   "dependencies": {
-    "nupt3": "git@github.com:vinaykhebbar/npmUpdateTest3.git#semver:~1.0.0"
+    "nupt3": "git@github.com:vinaykhebbar/npmUpdateTest3#semver:~1.0.0"
   },
   "author": "",
   "license": "ISC",
