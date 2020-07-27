@@ -1,0 +1,22 @@
+{
+  "name": "npmupdatetest1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinaykhebbar/npmUpdateTest1.git"
+  },
+  "dependencies": {
+    "nupt3": "git@github.com:vinaykhebbar/npmUpdateTest3.git#semver:~1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinaykhebbar/npmUpdateTest1/issues"
+  },
+  "homepage": "https://github.com/vinaykhebbar/npmUpdateTest1#readme"
+}
